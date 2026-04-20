@@ -1,1 +1,29 @@
-
+{
+  "geode": "3.3.0",
+  "gd": {
+    "win": "2.206",
+    "android": "2.206"
+  },
+  "id": "elyas.mod_menu",
+  "version": "v1.0.0",
+  "name": "Modmeun",
+  "developer": "Elyas",
+  "description": "Elyas Mod Suite: NoClip, Godmode, and Infinite Jump",
+  "settings": {
+    "noclip": {
+      "name": "NoClip",
+      "type": "bool",
+      "default": false
+    },
+    "godmode": {
+      "name": "Godmode",
+      "type": "bool",
+      "default": false
+    },
+    "inf-jump": {
+      "name": "Infinite Jump",
+      "type": "bool",
+      "default": false
+    }
+  }
+}
